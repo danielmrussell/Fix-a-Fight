@@ -10,7 +10,7 @@ A cross-platform app to help navigate conflict and create peace.
 code
 ```
 
-Start the server in production mode (minification enabled, etc.):
+STuff stuff stuff stuff.
 
 
 ## STUFF
